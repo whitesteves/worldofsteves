@@ -1127,11 +1127,13 @@ Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 status-curves.gl.joinmc.link => 127.0.0.1:13795 (minecraft-java)
-g/account/settings/account/verify-email
+[2J8[0mplayit (v0.15.18): 1723402446165 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 status-curves.gl.joinmc.link => 127.0.0.1:13795 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723402366337 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723402449228 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1140,9 +1142,7 @@ status-curves.gl.joinmc.link => 127.0.0.1:13795 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723402381424 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
+g/account/settings/account/verify-email
 
 TUNNELS
 status-curves.gl.joinmc.link => 127.0.0.1:13795 (minecraft-java)
@@ -1209,3 +1209,12 @@ Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 status-curves.gl.joinmc.link => 127.0.0.1:13795 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723402448107 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+status-curves.gl.joinmc.link => 127.0.0.1:13795 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
